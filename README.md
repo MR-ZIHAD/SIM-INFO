@@ -1,6 +1,5 @@
 # SIM-INFO
-
-## Only Robi/Airtel Sim number to Locate and information🥰
+🥰
 
 ```
 
